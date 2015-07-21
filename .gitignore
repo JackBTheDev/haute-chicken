@@ -4,7 +4,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 
@@ -12,8 +12,8 @@
 hs_err_pid*
 
 # Intellij
-.idea/
-*.iml
+#.idea/
+#*.iml
 *.iws
 
 # Mac
